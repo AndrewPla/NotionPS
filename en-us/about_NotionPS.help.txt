@@ -1,0 +1,16 @@
+﻿TOPIC
+	about_NotionPS
+	
+SHORT DESCRIPTION
+	
+
+LONG DESCRIPTION
+	A more detailed description of NotionPS,
+	To get started see the Notion getting started docs: https://developers.notion.com/docs/getting-started
+	
+	- You will need your "Internal Integration Token" to send API requests
+	- You will need to share the database with your integration
+	- Each request 
+	
+KEYWORDS
+	module development debugging
